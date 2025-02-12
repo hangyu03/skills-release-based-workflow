@@ -5,7 +5,9 @@
 
 html,
 body,
-div,
+body {
+    background-color: black;
+},
 span,
 applet,
 object,
